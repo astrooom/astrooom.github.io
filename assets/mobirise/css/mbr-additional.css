@@ -1094,12 +1094,16 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sldAdSatUN {
-  background-image: url("../../../assets/images/server-2160321.jpg");
+  background-image: url("../../../assets/images/ctb3kvk-2000x1116.jpg");
 }
 .cid-sldAdSatUN H3 {
-  color: #ffffff;
+  color: #f9f295;
 }
 .cid-sldAdSatUN H1 {
+  color: #f9f295;
+}
+.cid-sldAdSatUN .mbr-text,
+.cid-sldAdSatUN .mbr-section-btn {
   color: #ffffff;
 }
 .cid-slfYvJ5L6a {
