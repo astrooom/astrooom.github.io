@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Labradorhost",
-    "currentPage": "valheim.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -787,7 +787,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/ehylsnavgwgvizl4mw5am-1920x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -844,7 +844,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/10688437793-14c976aeea-o-1366x768.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
