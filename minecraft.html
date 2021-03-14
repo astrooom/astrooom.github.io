@@ -93,10 +93,64 @@
                 <div class="mbr-section-btn align-center"><a class="btn btn-md btn-black-outline display-7" href="page1.html#contacts3-y"><span class="mbri-features mbr-iconfont mbr-iconfont-btn"></span>
                         Features</a> <a class="btn btn-md btn-black display-7" href="https://billing.labradorhost.com/order/main/packages/minecrafthosting" target="_blank"><span class="mbri-shopping-cart mbr-iconfont mbr-iconfont-btn"></span>Choose Server Plan</a>  <a class="btn btn-md btn-black-outline display-7" href="minecraft.html#counters1-5s"><span class="mbri-download mbr-iconfont mbr-iconfont-btn"></span>
                         Hardware</a> <a class="btn btn-md btn-white-outline display-7" href="support.html" target="_blank"><span class="mobi-mbri mobi-mbri-question mbr-iconfont mbr-iconfont-btn"></span>
-                        Ask a question</a></div>
+                        Ask a question</a> <a class="btn btn-md btn-success-outline display-7" href="javascript:OpenModal('MinecraftTrialPopup')"><span class="mbri-smile-face mbr-iconfont mbr-iconfont-btn"></span>
+                        Free Trial</a></div>
             </div>
         </div>
     </div>
+
+</section>
+
+<section class="mbr-section" id="witsec-modal-window-block-97" data-rv-view="2973">
+
+	<style>
+	/* Let's not animate the contents of modal windows */
+	.no-anim {
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+	</style>
+
+	
+	
+	<div><div class="modal fade" id="MinecraftTrialPopup" tabindex="-1" role="dialog" aria-labelledby="MinecraftTrialPopupLabel" aria-hidden="true">  <div class="modal-dialog modal-lg " style="height:auto" role="document">    <div class="modal-content"><div class="modal-header">  <h5 class="no-anim modal-title" id="MinecraftTrialPopupLabel">Do you want to launch a trial of our Minecraft Server Hosting?</h5>  <a href="#" class="no-anim close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a></div><div class="modal-body" id="MinecraftTrialPopup_body">You will get a trial account to our server panel, where you can play on your server and get a feel of our server panel. Your trial account will be valid for three hours.</div><div class="modal-footer"><div class="mbr-section-btn"><a href="#" class="no-anim btn btn-secondary display-4" data-dismiss="modal">Close</a></div><div class="mbr-section-btn"><a href="https://labradorhost.com/minecrafttriallocation" class="no-anim btn btn-primary display-4" target="_new">Launch Trial</a></div></div>    </div>  </div></div><script>document.addEventListener("DOMContentLoaded", function() {  $("#MinecraftTrialPopup").on("hidden.bs.modal", function () {    var html = $( "#MinecraftTrialPopup_body" ).html();    $( "#MinecraftTrialPopup_body" ).empty();    $( "#MinecraftTrialPopup_body" ).append(html);  })});</script></div>
+
+	<script>
+	if (typeof OpenModal === 'undefined') {
+		OpenModal = function(modalName) {
+			if ($('#' + modalName).length)
+				$('#' + modalName).modal('show');
+			else
+				alert("Sorry, but there is no modal for " + modalName);
+		}
+	}
+
+	function modalSetCookie(cname, cvalue, exdays) {
+		var d = new Date();
+		d.setTime(d.getTime() + (exdays*24*60*60*1000));
+		var expires = "expires="+ d.toUTCString();
+		document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+
+	function modalGetCookie(cname) {
+		var name = cname + "=";
+		var decodedCookie = decodeURIComponent(document.cookie);
+		var ca = decodedCookie.split(';');
+		for(var i = 0; i <ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+	</script>
 
 </section>
 
@@ -151,7 +205,7 @@
                             
                             <div class="b-info b-mail">
                                 <h6 class="align-left mbr-fonts-style display-5">One-click Modpack and JAR installation</h6>
-                                <p class="mbr-text align-left mbr-fonts-style display-7">Got bored and want to try something else? Switch between jars and modpacks with one click. It's astonishingly easy. Check out how it works.</p>
+                                <p class="mbr-text align-left mbr-fonts-style display-7">Got bored and want to try something else? Switch between jars and modpacks with one click. It's astonishingly easy.</p>
                             </div>
                         </div>
                     </div>
