@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Labradorhost",
-    "currentPage": "minecraft.html",
+    "currentPage": "minecrafttriallocation.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -18814,7 +18814,7 @@
         }
       ]
     },
-    "minecrafttrialserverlocation.html": {
+    "minecrafttriallocation.html": {
       "settings": {
         "meta_descr": "Choose location for Minecraft Trial",
         "title": "Minecraft Trial Server Location",
