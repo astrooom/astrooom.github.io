@@ -87,7 +87,7 @@
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">Start your new ARK server easily and affordably with us.</p>
                 <div class="mbr-section-btn"><a class="btn btn-md btn-secondary display-4" href="https://billing.labradorhost.com/order/main/packages/arkserver"><span class="fas fa-fw fa-gamepad mbr-iconfont mbr-iconfont-btn"></span>Launch Server</a>
-                    <a class="btn btn-md btn-success display-4" href="page26.html#contacts3-b6"><span class="mobi-mbri mobi-mbri-setting mbr-iconfont mbr-iconfont-btn"></span>Features</a></div>
+                    <a class="btn btn-md btn-success display-4" href="page26.html#contacts3-b6"><span class="mobi-mbri mobi-mbri-setting mbr-iconfont mbr-iconfont-btn"></span>Features</a> <a class="btn btn-md btn-white-outline display-4" href="javascript:OpenModal('ARKTrialPopup')"><span class="mobi-mbri mobi-mbri-smile-face mbr-iconfont mbr-iconfont-btn"></span>Free Trial</a></div>
             </div>
         </div>
     </div>
@@ -96,6 +96,59 @@
             <i class="mbri-down mbr-iconfont"></i>
         </a>
     </div>
+</section>
+
+<section class="mbr-section" id="witsec-modal-window-block-bh" data-rv-view="7886">
+
+	<style>
+	/* Let's not animate the contents of modal windows */
+	.no-anim {
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+	</style>
+
+	
+	
+	<div><div class="modal fade" id="ARKTrialPopup" tabindex="-1" role="dialog" aria-labelledby="ARKTrialPopupLabel" aria-hidden="true">  <div class="modal-dialog modal-lg modal-dialog-centered" style="height:auto" role="document">    <div class="modal-content"><div class="modal-header">  <h5 class="no-anim modal-title" id="ARKTrialPopupLabel">Do you want to request a free trial valid for three hours?</h5>  <a href="#" class="no-anim close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a></div><div class="modal-body" id="ARKTrialPopup_body">You will be able to try our hosting service and all it's features until the three-hour period expires.</div><div class="modal-footer"><div class="mbr-section-btn"><a href="#" class="no-anim btn btn-secondary display-4" data-dismiss="modal">Close</a></div><div class="mbr-section-btn"><a href="http://trial.labradorhost.com:5000" class="no-anim btn btn-primary display-4" target="_new">Take Me to The Trial Page!</a></div></div>    </div>  </div></div><script>document.addEventListener("DOMContentLoaded", function() {  $("#ARKTrialPopup").on("hidden.bs.modal", function () {    var html = $( "#ARKTrialPopup_body" ).html();    $( "#ARKTrialPopup_body" ).empty();    $( "#ARKTrialPopup_body" ).append(html);  })});</script></div>
+
+	<script>
+	if (typeof OpenModal === 'undefined') {
+		OpenModal = function(modalName) {
+			if ($('#' + modalName).length)
+				$('#' + modalName).modal('show');
+			else
+				alert("Sorry, but there is no modal for " + modalName);
+		}
+	}
+
+	function modalSetCookie(cname, cvalue, exdays) {
+		var d = new Date();
+		d.setTime(d.getTime() + (exdays*24*60*60*1000));
+		var expires = "expires="+ d.toUTCString();
+		document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+
+	function modalGetCookie(cname) {
+		var name = cname + "=";
+		var decodedCookie = decodeURIComponent(document.cookie);
+		var ca = decodedCookie.split(';');
+		for(var i = 0; i <ca.length; i++) {
+			var c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+	</script>
+
 </section>
 
 <section class="mbr-section contacts3 cid-suoMa5wT7C" id="contacts3-b6">
