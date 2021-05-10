@@ -1345,7 +1345,7 @@
       "settings": {
         "meta_descr": "Terraria Dedicated Server Hosting at Incredible prices. Launch your multiplayer world today!",
         "title": "Terraria Dedicated Server Hosting | Labradorhost",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -2421,7 +2421,7 @@
       "settings": {
         "meta_descr": "Minecraft Server Hosting at unbeatable prices. Host your Minecraft server at Labradorhost.",
         "title": "Minecraft Server Hosting: Labradorhost",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -3687,7 +3687,7 @@
       "settings": {
         "meta_descr": "Simple and Affordable Teamspeak Dedicated Server Hosting at Labradorhost",
         "title": "Teamspeak Dedicated Server at Labradorhost",
-        "order": 18
+        "order": 17
       },
       "components": [
         {
@@ -4557,7 +4557,7 @@
       "settings": {
         "meta_descr": "Simple and Affordable Mumble Dedicated Server Hosting at Labradorhost",
         "title": "Mumble Dedicated Server at Labradorhost",
-        "order": 19
+        "order": 18
       },
       "components": [
         {
@@ -5528,7 +5528,7 @@
       "settings": {
         "meta_descr": "Host your voice server at Labradorhost. Affordable hosting made simple.",
         "title": "Voice Server Hosting at Labradorhost",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -6080,7 +6080,7 @@
       "settings": {
         "meta_descr": "Host your game server at Labradorhost. Affordable hosting made simple.",
         "title": "Game Server Hosting at Labradorhost",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -6993,7 +6993,7 @@
       "settings": {
         "meta_descr": "Demo and features on Pterodactyl Panel",
         "title": "Pterodactyl Panel Demo at Labradorhost",
-        "order": 20
+        "order": 19
       },
       "components": [
         {
@@ -8121,7 +8121,7 @@
       "settings": {
         "meta_descr": "Host your Cryofall Server affordably at Labradorhost",
         "title": "Cryofall Server Hosting at Labradorhost",
-        "order": 12
+        "order": 11
       },
       "components": [
         {
@@ -9284,7 +9284,7 @@
       "settings": {
         "meta_descr": "Host your Quake Live Dedicated Server affordably at Labradorhost",
         "title": "Quake Live Server Hosting at Labradorhost",
-        "order": 13
+        "order": 12
       },
       "components": [
         {
@@ -10254,7 +10254,7 @@
       "settings": {
         "meta_descr": "Host your Hytale Dedicated Server affordably at Labradorhost when Hytale releases",
         "title": "Hytale Server Hosting at Labradorhost",
-        "order": 17
+        "order": 16
       },
       "components": [
         {
@@ -10813,7 +10813,7 @@
       "settings": {
         "meta_descr": "Host your Xonotic Server affordably at Labradorhost",
         "title": "Xonotic Server Hosting at Labradorhost",
-        "order": 14
+        "order": 13
       },
       "components": [
         {
@@ -11893,7 +11893,7 @@
       "settings": {
         "meta_descr": "Host your Teeworlds Server affordably at Labradorhost",
         "title": "Teeworlds Server Hosting at Labradorhost",
-        "order": 15
+        "order": 14
       },
       "components": [
         {
@@ -12863,7 +12863,7 @@
       "settings": {
         "meta_descr": "Vintage Story Server Hosting at unbeatable prices. Host your Vintage Story server at Labradorhost",
         "title": "Vintage Story Server Hosting at Labradorhost",
-        "order": 16
+        "order": 15
       },
       "components": [
         {
@@ -13990,7 +13990,7 @@
       "settings": {
         "meta_descr": "Rust Server Hosting at unbeatable prices. Host your Rust server at Labradorhost",
         "title": "Rust Server Hosting at Labradorhost",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -15086,7 +15086,7 @@
       "settings": {
         "meta_descr": "Item Currently Not Available",
         "title": "Currently Not Available",
-        "order": 25
+        "order": 24
       },
       "components": [
         {
@@ -15648,7 +15648,7 @@
       "settings": {
         "meta_descr": "Contact formula at Labradorhost",
         "title": "Contact us at Labradorhost",
-        "order": 2,
+        "order": 1,
         "header_custom": ""
       },
       "components": [
@@ -16256,7 +16256,7 @@
       "settings": {
         "meta_descr": "Valheim Server Hosting at an unbeatable price. Launch your Valheim Dedicated Server today!",
         "title": "Valheim Server Hosting at $5.99/month | Labradorhost",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -17431,7 +17431,7 @@
       "settings": {
         "meta_descr": "How the Minecraft Modpack and Version Switching works at Labradorhost",
         "title": "Minecraft Modpack and Version Switching",
-        "order": 22
+        "order": 21
       },
       "components": [
         {
@@ -18010,7 +18010,7 @@
       "settings": {
         "meta_descr": "Host your CS:GO server at fantastic prices",
         "title": "Counter-Strike: Global Offensive Server Hosting at Labradorhost",
-        "order": 6
+        "order": 5
       },
       "components": [
         {
@@ -19125,7 +19125,7 @@
       "settings": {
         "meta_descr": "Fully Crossplay Minecraft Server Hosting Service. Play on the same server from Java and Bedrock versions of Minecraft. Works on Console, PC and Mobile.",
         "title": "Crossplay Minecraft Server Hosting at Labradorhost",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -20665,7 +20665,7 @@
       "settings": {
         "meta_descr": "Information about unlimited storage for servers at Labradorhost.",
         "title": "About Unlimited Storage Capacity",
-        "order": 24
+        "order": 23
       },
       "components": [
         {
@@ -21244,7 +21244,7 @@
       "settings": {
         "meta_descr": "Detailed Server Specifications for Labradorhost",
         "title": "Server Specifications at Labradorhost",
-        "order": 23
+        "order": 22
       },
       "components": [
         {
@@ -21867,7 +21867,7 @@
       "settings": {
         "meta_descr": "Host your ARK: Survival Evolved Server affordably at Labradorhost",
         "title": "ARK: Survival Evolved Server Hosting at Labradorhost",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -23092,7 +23092,7 @@
       "settings": {
         "meta_descr": "Webpage to choose Minecraft hosting service on Labradorhost\n",
         "title": "Minecraft Hosting Services",
-        "order": 21
+        "order": 20
       },
       "components": [
         {
@@ -23740,7 +23740,7 @@
       "settings": {
         "meta_descr": "Terms of Service at Labradorhost",
         "title": "Terms of Service",
-        "order": 1
+        "order": 25
       },
       "components": [
         {
@@ -23784,7 +23784,7 @@
           },
           "_name": "content1",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">By using </span><b style=\"font-size: 1rem;\">Labradorhost </b><span style=\"font-size: 1rem;\">products and services, you agree and will comply to all of our policies. We have the right to cancel, suspend, or terminate any service or product provided with or without a refund or notice or warning for any reason. We also reserve the right to change any Modify our Terms of Service at any time without client notification. It is up to the client to periodically check with the recent Terms of Service. If any client does not comply with the new Terms of Service modifications, his or her service will be terminated.</span><br></p><p>\"Client\", \"Users\", \"You\" and \"Your\" refers to you, the person accessing this website and accepting the Company terms and conditions. \"The Company\", \"Ourselves\", \"We\" and \"Us\", refers to our Company Labradorhost.\n</p><p><b><i>The Terms of Services can be modified at any time without notice.</i></b></p><p><br></p><p><b>\n</b></p><p>\n</p><p><b>Payment, Refunds, and Cancellations\n</b></p><p>It is the buyer's responsibility to pay before the payment is due, failure to do that will result in the service suspension, and then termination (deletion). If the buyer wants his service unsuspended because the buyer failed to pay in time, they can pay their invoice within two days at no additional price. We have the right to suspend or terminate at any time after your service is overdue, if your server gets terminated we are not obligated to retrive your data. We only give PayPal refunds within 72 hours if the product delivered to the buyer isn't working. We have the right to deny refunds for any reason after 72 hour-period. The refund will be paid out with the same payment method as the buyer used for their payment. If the buyer forgets to disable his subscription, Labradorhost will not refund him under any means; it is not our responsibility that the buyer did not turn off their subscription even after the cancellation.</p><p><br></p><p>\n</p><p>\n</p><p><b>Disputes\n</b></p><p>Any payment chargeback or charges will result in the termination of your service with us. Any legal threats will also result in the immediate termination of your services(s) with us.</p><p><br></p><p>\n</p><p>\n</p><p><b>Support\n</b></p><p>All of our support is unmanaged. We only provide you with the essentials needed to get full access to your service. We provide basic knowledge of hosting and we may be able to assist you in questions you may have regarding your service or our server panel. We will however provide support for any issues regarding hardware. We will not provide support of any kind to servers containing cracked plugins or illegal files.</p><p><br></p><p>\n</p><p>\n</p><p><b>SLA\n</b></p><p>We do not operate any SLA agreement. Uptime is operated on a best effort basis. We will not process any refunds or compensations due to service outages and or down time. You may check our uptime at the link in the navigation bar above.</p><p><br></p><p>\n</p><p>\n</p><p><b>Backups</b></p><p>\n</p><p>We do not take backups of client data and it is highly recommend for all clients take remote backups in case of data loss. Labradorhost&nbsp; is not responsible for data loss. Labradorhost offers a backup service on the server panel which is free for 5 backups, and upgradeable up to 25 by a small fee.&nbsp;</p><p><br></p><p><b>Storage</b></p><p>We allow unmetered storage for your service as long as you only use it for storing files that are related to your service. This includes files such as plugins, mods, backups etc. It does not include files such as music files, video files and pictures.</p><p><br></p><p>\n</p><p><b>Acceptance Use Policy\n</b></p><p>CPU cores are shared in shared hosting. We do not limit CPU usage on our servers. If a client uses more than required for their service, they will be asked to reduce their usage. Failure to reduce their usage after being asked will result in the immediate termination of account and services without a refund.&nbsp;</p><p><br></p><p>\n</p><p><b>Forbidden Activity\n</b></p><p>We do no tolerate Denial of Service (DDoS) attacks, Port scanning, Botnets, TOR exit nodes, Proxies, Open DNS resolver, illegal downloads, Virtual currency mining, Crawlers, IP spoofing, Phishing, Ram Hacks, Stresser Website and Adult materials.&nbsp;</p><p><br></p><p>\n</p><p>\n</p><p><b>Important Note:\n</b></p><p>All files on users services are users responsibility. Labradorhost holds no responsibility for what our client's upload. We do not allow any forms of copyright violation and will result in immediate suspension.\n</p><p>Please report forbidden activities and DMCA Copyright infringement to support@labradorhost.com</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#232323\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><span style=\"font-size: 1rem;\">By using </span><b style=\"font-size: 1rem;\">Labradorhost </b><span style=\"font-size: 1rem;\">products and services, you agree and will comply to all of our policies. We have the right to cancel, suspend, or terminate any service or product provided with or without a refund or notice or warning for any reason. We also reserve the right to change and modify our Terms of Service at any time without client notification. It is up to the client to periodically check with the recent Terms of Service. If any client does not comply with the new Terms of Service modifications, his or her service will be terminated.</span><br></p><p>\"Client\", \"Users\", \"You\" and \"Your\" refers to you, the person accessing this website and accepting the Company terms and conditions. \"The Company\", \"Ourselves\", \"We\", \"Us\" and \"Labradorhost\" refers to our Company <b>Labradorhost</b>.\n</p><p><b><i>The Terms of Services can be modified at any time without notice.</i></b></p><p><br></p><p><b>\n</b></p><p>\n</p><p><b>Payment, Refunds, and Cancellations\n</b></p><p>We provide a 72-hour money back guarantee for all services. This means that during the 72-hour period after your purchase, you are valid for a refund without providing any reason. In order to receive a refund, a ticket must be opened within the 72-hour time period.&nbsp;<span style=\"font-size: 1rem;\">We have the right to deny refunds for any reason after the 72 hour-period has expired. Please note that we may still allow refunds after this period, but are not obliged to.</span></p><p>It is the buyer's responsibility to pay before the payment is due, failure to do that will result in the service suspension, and then termination (cancellation). If the buyer wants his service unsuspended because the buyer failed to pay in time, they can pay their invoice within two days at no additional cost.&nbsp;<span style=\"font-size: 1rem;\">We have the right to suspend or terminate at any time two days after your service is overdue, if your server gets terminated we are not obligated to retrive your data. The refund will be paid out with the same payment method as the buyer used for their payment. To terminate your services you must cancel any PayPal subscriptions active and cancel via our Client Portal. If the buyer forgets to disable their automatic subscription, Labradorhost will not refund them under any means; it is not our responsibility that the buyer did not turn off their subscription even after the cancellation.</span></p><p><br></p><p>\n</p><p>\n</p><p><b>Disputes\n</b></p><p>Any payment chargeback or charges will result in the termination of your service with us. Any legal threats will also result in the immediate termination of your services(s) with us.</p><p><br></p><p>\n</p><p>\n</p><p><b>Support\n</b></p><p>All of our support is unmanaged. We only provide you with the essentials needed to get full access to your service. We provide basic knowledge of hosting and we may be able to assist you in questions you may have regarding your service or our server panel. We will however provide support for any issues regarding hardware. We will not provide support of any kind to servers containing cracked plugins or illegal files.</p><p><br></p><p>\n</p><p>\n</p><p><b>SLA\n</b></p><p>We do not operate any SLA agreement. Uptime is operated on a best effort basis. We will not process any refunds or compensations due to service outages and or down time. You may check our uptime at the link in the navigation bar above.</p><p><br></p><p>\n</p><p>\n</p><p><b>Backups</b></p><p>\n</p><p>We do not take backups of client data and it is highly recommend for all clients take remote backups in case of data loss. Labradorhost, under no circumstances, shall be held liable for any data loss, disruption of information, or distribution of information including that of unauthorized access to our server systems or any other loss of data. Labradorhost offers a backup service of up to 5 backups on the server panel included for all services by default., and upgradeable up to 25 for a fee.&nbsp;</p><p><br></p><p><b>Storage</b></p><p>We allow unmetered storage for your service as long as you only use it for storing files that are related to your service. This includes files such as plugins, mods, backups etc. It does not include files such as music files, video files and pictures.</p><p><br></p><p>\n</p><p><b>Acceptance Use Policy\n</b></p><p>We do not limit CPU usage on our servers. CPU cores are shared between servers.<span style=\"font-size: 1rem;\">&nbsp; If a client uses more than required for their service, they will be asked to reduce their usage. Failure to reduce their usage after being asked will result in the immediate termination of account and services without a refund. Any uploaded files that cause the server to lag or make the server unplayable are not the responsibility of Labradorhost.</span></p><p><br></p><p>\n</p><p><b>Forbidden Activity\n</b></p><p>We do no tolerate Denial of Service (DDoS) attacks, Port scanning, Botnets, TOR exit nodes, Proxies, Open DNS resolver, illegal downloads, Virtual currency mining, Crawlers, IP spoofing, Phishing, Ram Hacks, Stresser Website and Adult materials. Labradorhost reservers the right to cancel services that use or are targeted by such attacks or activities listed above.</p><p>Labradorhost services may not be used for illegal purposes, or in support of any illegal activities. Labradorhost reserves the right to cooperate with legal authorities and/or injured third parties in the investigation of any suspected crime or civil wrong doing</p><p><br></p><p>\n</p><p>\n</p><p><b>Important Note:\n</b></p><p>All files on users services are users responsibility. Labradorhost holds no responsibility for what our client's upload. We do not allow any forms of copyright violation and will result in immediate suspension.\n</p><p>Please report forbidden activities and DMCA Copyright infringement to support@labradorhost.com</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "sx11SRDfDb",
           "_anchor": "content1-ct",
           "_protectedParams": [],
