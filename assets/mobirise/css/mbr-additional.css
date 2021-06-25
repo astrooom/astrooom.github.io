@@ -1033,17 +1033,18 @@ section.lazy-placeholder:after {
   color: #d2ff24 !important;
 }
 .cid-sBhdYR2NEL {
-  background-color: #232323;
+  background-image: url("../../../assets/images/scene-1604442-1921-1920x1920.jpg");
 }
 .cid-sBhdYR2NEL P {
   color: #767676;
 }
 .cid-sBhdYR2NEL H1 {
-  color: #ffffff;
+  color: #4aff00;
 }
 .cid-sBhdYR2NEL .mbr-text,
 .cid-sBhdYR2NEL .mbr-section-btn {
   color: #ffffff;
+  text-align: left;
 }
 .cid-sBhdYR2NEL H3 {
   color: #ffffff;
